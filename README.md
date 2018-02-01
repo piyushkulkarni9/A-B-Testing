@@ -1,4 +1,7 @@
-# A-B-Testing
+A/B Testing
+
+The experiment tries to answer the following question:
+Can sales be increased by adding a product video along with pictures on an e-commerce website?
 
 Field Experiment Setting 
 Field study on a mid-size women’s fashion apparel retailer in the US 
