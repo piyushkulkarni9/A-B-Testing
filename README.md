@@ -1,5 +1,3 @@
-A/B Testing
-
 The experiment tries to answer the following question:
 Can sales be increased by adding a product video along with pictures on an e-commerce website?
 
